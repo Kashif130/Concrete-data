@@ -53,4 +53,4 @@ import random
 st.info(f"🗿 *\"{random.choice(quotes)}\"*")
 
 # Footer
-st.caption("Developed by x.com/mkashifalikcp | Not an official Concrete tool, built for the community."mkashifalikcp
+st.caption("Developed by mkashifalikcp | Not an official Concrete tool, built for the community."mkashifalikcp
